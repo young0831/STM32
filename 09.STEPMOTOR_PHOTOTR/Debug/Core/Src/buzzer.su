@@ -1,0 +1,6 @@
+buzzer.c:96:6:noTone	8	static
+buzzer.c:102:6:set_buzzer	24	static
+buzzer.c:110:6:siren	32	static
+buzzer.c:136:6:rrr	16	static
+buzzer.c:150:6:beep	24	static
+buzzer.c:165:6:buzzer_main	8	static

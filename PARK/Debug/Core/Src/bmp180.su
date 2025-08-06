@@ -1,0 +1,6 @@
+bmp180.c:44:6:BMP180_ReadCalibrationCoefficients	56	static
+bmp180.c:70:9:BMP180_ReadRawTemperature	40	static
+bmp180.c:87:9:BMP180_ReadRawPressure	40	static
+bmp180.c:117:9:BMP180_ComputeTemperature	32	static
+bmp180.c:136:9:BMP180_ComputePressure	64	static
+bmp180.c:191:6:bmp_main	184	static

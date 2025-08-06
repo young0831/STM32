@@ -1,0 +1,4 @@
+keypad.c:8:6:keypadInit	16	static
+keypad.c:16:9:getKeypadState	48	static
+keypad.c:60:9:keypadScan	16	static
+keypad.c:78:5:multiple_number	32	static

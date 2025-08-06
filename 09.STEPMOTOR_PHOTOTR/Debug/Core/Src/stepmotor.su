@@ -1,0 +1,3 @@
+stepmotor.c:33:6:set_rpm	16	static
+stepmotor.c:40:6:stepmotor_main	8	static
+stepmotor.c:142:5:stepmotor_drive	16	static

@@ -1,0 +1,4 @@
+dotmatrix.c:67:6:dotmatrix_main_test	16	static
+dotmatrix.c:132:6:init_dotmatrix	24	static
+dotmatrix.c:148:6:dotmatrix_main	24	static
+dotmatrix.c:197:6:dotmatrix_main_func	24	static

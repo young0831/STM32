@@ -1,0 +1,32 @@
+!SESSION 2025-07-20 19:40:28.666 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\PROJECT\STM32\99.ELEVATOR\.project
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\PROJECT\STM32\99.ELEVATOR\.project
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-20 19:40:45.034
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-20 19:40:45.071
+!MESSAGE Log4j initialized with config file C:\PROJECT\STM32\99.ELEVATOR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-20 19:40:47.859
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-07-20 19:41:10.893 -----------------------------------------------
+eclipse.buildId=Version 1.7.0
+java.version=11.0.10
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  C:\PROJECT\STM32\99.ELEVATOR\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 C:\PROJECT\STM32\99.ELEVATOR\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-07-20 19:41:17.166
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-07-20 19:41:17.223
+!MESSAGE Log4j initialized with config file C:\PROJECT\STM32\99.ELEVATOR\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-07-20 19:41:22.555
+!MESSAGE Started RMI Server, listening on port 41337

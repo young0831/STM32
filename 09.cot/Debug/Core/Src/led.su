@@ -1,0 +1,12 @@
+led.c:3:6:led_all_on	8	static
+led.c:14:6:led_one_on	8	static
+led.c:19:6:led_two_on	8	static
+led.c:24:6:led_three_on	8	static
+led.c:29:6:led_all_off	8	static
+led.c:34:6:shift_left_ledon	24	static
+led.c:57:6:shift_right_ledon	24	static
+led.c:79:6:shift_left_keep_ledon	16	static
+led.c:90:6:shift_right_keep_ledon	16	static
+led.c:115:6:flower_on	16	static
+led.c:140:6:flower_off	16	static
+led.c:165:6:led_main	16	static

@@ -1,0 +1,3 @@
+fnd.c:37:6:send_1byte74hc595_fnd	24	static
+fnd.c:51:6:fnd_init	8	static
+fnd.c:63:6:fnd_display	16	static

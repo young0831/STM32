@@ -1,0 +1,8 @@
+i2c_protocol.c:33:6:i2c_lcd_dis_line0	8	static
+i2c_protocol.c:45:6:i2c_lcd_dis_line1	8	static
+i2c_protocol.c:58:6:i2c_lcd_main	16	static
+i2c_protocol.c:92:6:lcd_command	32	static
+i2c_protocol.c:117:6:lcd_data	32	static
+i2c_protocol.c:138:6:i2c_lcd_init	8	static
+i2c_protocol.c:150:6:lcd_string	16	static
+i2c_protocol.c:157:6:move_cursor	16	static

@@ -1,0 +1,5 @@
+circularQueue.c:16:5:queue_empty	4	static
+circularQueue.c:23:5:queue_full	16	static
+circularQueue.c:31:6:insert_queue	16	static
+circularQueue.c:44:15:read_queue	8	static
+circularQueue.c:57:6:queue_init	4	static

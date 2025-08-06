@@ -1,0 +1,5 @@
+dotmatrix.c:116:6:up_arrow_animation	32	static
+dotmatrix.c:143:6:init_dotmatrix	24	static
+dotmatrix.c:158:6:name_scroll	24	static
+dotmatrix.c:182:6:dotmatrix_display	32	static
+dotmatrix.c:200:6:dotmatrix_main_test	8	static
